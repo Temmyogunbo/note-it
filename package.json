@@ -1,0 +1,13 @@
+{
+  "name": "note-it",
+  "version": "1.0.0",
+  "description": "Note taking app using CLI",
+  "main": "index.js",
+  "repository": "https://github.com/Temmyogunbo/note-it.git",
+  "author": "temmyogunbo <Ogunbotemilola@yahoo.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node ./client"
+  }
+}
